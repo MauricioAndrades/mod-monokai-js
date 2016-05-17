@@ -1,8 +1,8 @@
 #mod-monokai-js.tmTheme
 
-SublimeText Theme for use with (Babel)[https://packagecontrol.io/packages/Babel]
+SublimeText Theme for use with [Babel](https://packagecontrol.io/packages/Babel)
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+![](./mod-monokai-js.png)
 
 
 ##Instructions:
